@@ -1,0 +1,2 @@
+# tum_ardrone
+ 0 down vote favorite  /opt/ros/indigo# rosrun tum_ardrone drone_stateestimation  Error: [rosrun] Couldn't find executable named drone_stateestimation below /opt/ros/indigo/tum_ardrone  http://wiki.ros.org/tum_ardrone,i have followed these instructions but i cant run drone_stateestimation.So that i checked tum_ardrone folder but couldnt find any drone_stateestimation.I installled catkin also.  Do i need to do something else?
